@@ -1,0 +1,37 @@
+.menu-bg{
+    background-color: rgb(45, 62, 80);
+}
+
+#mainNav{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+#mainNav .navbar-brand{
+    color: #fff;
+}
+.nav-link{
+    color:#fff
+}
+
+header{
+    background-color: #1bbc9b;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+.page-section {
+    padding: 6rem;
+}
+
+.ezgi{
+    background-color: #1bbc9b ; 
+}
+
+.bg-color{
+    background-color: #2d3e50;
+}
+
+.cont-color{
+    background-color: black;
+}
